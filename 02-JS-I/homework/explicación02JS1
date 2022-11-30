@@ -1,0 +1,9 @@
+-Variables: Las variables son un espacio utilizado en nuestro código. Su tipo depende de los valores contenidos en las mismas y se pueden reestablecer o reconfigurar a cualquier otro tipo.
+
+-Strings: Los strings son cadenas de textos encerradas entre comillas.
+
+-Funciones (Argumentos): Son objetos que mediante instrucciones ejecutan tareas o calculan valores. Éstas quedan guardadas para poder ser reutilizadas. A su vez las funciones cuentan con argumentos, los cuales van a tomar un valos al momento de invocarlas. La palabra reservada return se utiliza cuando una función deve devolver un valor.
+
+-Declaraciones: Cuando declaramos una función, la estamos creando si haber asignado algún tipo de valor todavía.
+
+-Valores booleanos: En Javascript usamos booleanos para significar verdadero(true) o falso(false).

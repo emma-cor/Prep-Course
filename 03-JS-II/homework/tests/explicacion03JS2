@@ -1,0 +1,11 @@
+Bucle For
+El bucle For nos perimite repetir la misma acción sin necesidad de repetir la escritura del código.
+Esto es posible declarando ciertos parámetros que limitaran la repetición hasta que se cumpla una condición o un número exacto de veces.
+
+Operadores Lógicos 
+
+-&& o Y : Para que una expresión devuelva un resultado verdadero o 'true', es necesario que todos los operandos sean verdaderos.
+
+-|| o OR : Éste operador evalua los operando de derecha a izquierda. Devuelve el primer valor verdadero que encuentre
+
+-! o NOT : Convierte a booleano la variable utilizada y retorna el valor inverso. Es decir, si es TRUE retornará FALSE, y viceversa. 
